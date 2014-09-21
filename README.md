@@ -1,0 +1,1 @@
+To run the tests, just run `./gradlew cucumber` on *nix or `gradlew.bat cucumber` on Windows.
